@@ -1,3 +1,10 @@
+/*-------------------------------------------------classes---*/
+.uppercase{
+    text-transform: uppercase;
+}
+
+
+
 /*-------------------------------------------------NAVBAR---*/
 
 nav{
@@ -7,7 +14,8 @@ nav{
 }
 
 .fa-headphones{
-    padding: 15px;
+    padding-left: 15px;
+    padding-right:15px;
     margin-right: 15px;
     font-size: 50px;
 }
@@ -16,3 +24,81 @@ nav ul li {
     padding:15px;
     font-family: Arial;
     letter-spacing: 5px;}
+    
+/*-------------------------------------------------COMMON IMG---*/
+.common-img {
+    height: 400px;
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   width: 100%
+   }
+   
+   
+/*-------------------------------------------------MAIN---*/
+h1, h2, h3 {
+    text-align: center;
+}
+
+body{
+    background-color: #d3d3d3;
+}
+
+.pro-tools, .ableton, .audacity, .audition {
+    display: inline-block;
+    padding: 2%;
+}
+
+.icons {
+    text-align: center;}
+    
+/*-------------------------------------------------Requirements--*/
+
+.comp, .mic, .int{
+    margin-bottom:20px;
+}
+
+.computer {
+    width: 100%;
+    height: 300px;
+    background-image: url("../images/computer.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.interface{
+    width: 100%;
+    height: 300px;
+    background-image: url("../images/interface.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;}
+    
+.microphone{
+    width: 100%;
+    height: 300px;
+    background-image: url("../images/microphones.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+   
+/*-------------------------------------------------FOOTER---*/
+
+
+footer {
+    background-color: #000;}
+
+a {display: block;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 0;
+    padding: 15px;
+}
+    
+h6 {
+    font-family: Arial;
+    letter-spacing: 2px;
+    color: white;}
+    
+
+   
