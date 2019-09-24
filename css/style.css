@@ -154,10 +154,10 @@ h6 {
     
 footer i {
     height: 30px;
-    width: 20px;
+    width: 15px;
     color: #fff;
-    padding: 15px;
-    margin: 15px;
+    padding: 8px;
+    margin: 5px;
     transition-timing-function: ease-in-out;
     transition-duration: .5s;
 }
@@ -178,28 +178,53 @@ footer i:hover {
      background-size: cover;
      background-repeat: no-repeat;
      height: 300px;
-     width:100%;
- }
+     width:100%;}
  
  .oneband {
+     height: 350px;
+     width: 100%;
      background-image: url("../images/1band.png");
      background-size: contain;
      background-repeat: no-repeat;
      background-position: center;
-     width:100%;
- }
+     }
  
  .sevenband{
+     height: 350px;
+     width: 100%;
      background-image: url("../images/7band.jpg");
-     width:100%
      background-size: contain;
      background-repeat: no-repeat;
      background-position: center;
     
-
  }
+     
+ /*-------------------------------------------------Compress/Limit---*/
+ 
+ .compress{
+     background-image: url("../images/spring.jpg");
+     background-size: cover;
+     height: 350px;
+     width: 750px;
+     background-repeat: no-repeat;
+     background-position: center;}
     
+.compresspic{
+     background-image: url("../images/compressor.png");
+     background-size: contain;
+     background-repeat: no-repeat;
+     background-position: center;
+     width:100%;
+}
 
+.limiter{
+     background-image: url("../images/Limiter.jpg");
+     background-size: contain;
+     background-repeat: no-repeat;
+     background-position: center;
+     width:100%;
+    
+}
     
 
    
