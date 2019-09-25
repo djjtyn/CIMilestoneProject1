@@ -8,8 +8,8 @@ h1, h2, h3 {
 }
 
 h3{
-    padding: 15px;
-}
+    padding: 10px;
+    }
 
 p{
     text-align: justify;
@@ -40,7 +40,6 @@ nav ul li {
 /*-------------------------------------------------COMMON IMG---*/
 .common-img {
     height: 400px;
-    width: 100%;
     background-image: url("../images/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -64,13 +63,23 @@ body{
 }
 
 .icons {
-    text-align: center;}
+    float:left;
+    width:300px;
+    padding:10px;
+    text-align:center;
+}
+    
+.icontxt{
+    padding-right:40px;
+    padding-left:40px;
+    text-align:center;
+    ;
+}
 
     
 /*-------------------------------------------------Requirements--*/
 .comp h3{
     margin-bottom:35px;
-    margin-top:0;
 }
 
 .comp ul {
@@ -85,34 +94,64 @@ body{
 }
 
 .computer {
-    width: 356px;
-    height: 300px;
-    background-image: url("../images/computer.jpg");
-    background-size: contain;
+    height: 350px;
+    background-image: url("../images/computer.jpeg");
+    background-size: cover;
     background-repeat: no-repeat;
-    }
-
-
-
+    border:4px solid #fff;
+    border-radius:50%;
+    width: 300px;
+    float:right;
+    
+   }
+    
+.comptxt{
+   padding:40px;
+   text-align:center;
+   transform:translateY(-8%);
+   }
 
 .interface{
+    height: 350px;
     background-image: url("../images/interface.jpg");
-     height: 300px;
-     width:100%;
-    background-size: contain;
-    background-repeat: no-repeat;}
-    
-.microphone{
-    background-image: url("../images/microphones.png");
-     height: 300px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position:center;
+    border:4px solid #fff;
+    border-radius:50%;
+    width: 300px;
+    padding:10;
+    float:left;
+   }
    
+.interfacetxt{
+    padding:40px;
+    text-align:center;
+    transform:translateY(-8%);
+}
+    
+.microphone{
+    height: 350px;
+    background-image: url("../images/microphones.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    border:4px solid #fff;
+    border-radius:50%;
+    width: 300px;
+    padding:10;
+    float:right;
+   
+}
+
+.mictxt{
+   padding:40px;
+   transform:translateY(-8%);
 }
 
 .comp, .mic, .int{
     margin-bottom:15px;
+    
    }
 
 ul{
@@ -168,11 +207,26 @@ footer i {
     margin-top: 20px;
 }
   
-footer i:hover {
-  color: red;
+footer .fa-facebook:hover {
+  color: blue;
+}
+
+footer .fa-youtube:hover {
+    color: red;
+}
+
+footer .fa-globe:hover{
+    color:#228B22;
 }
  
  /*-------------------------------------------------EQ---*/
+ 
+ .eqtop{
+    margin-bottom:35px;
+    margin-top:0;
+}
+
+ }
  .eq{
      background-image: url("../images/EQ.png");
      background-size: cover;
