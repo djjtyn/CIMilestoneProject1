@@ -1,122 +1,114 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
-    <title>Digital Audio Workstation</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" type="text/css" />
+  <title>DAW(EQ)</title>
 </head>
+
 <body>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed">
-            <div class="nav-brand">
-                <i class="fas fa-headphones"></i>
-            </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-hidden="true">
+    <div class="nav-brand">
+      <i class="fas fa-headphones"></i>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-hidden="true">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                      <li class="nav-item">
-                        <a class="nav-link active" href="eq.html">Equalization</a>
-                    </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="comlim.html">Compressor/ Limiter</a>
-                    </li>
-                </ul>
-            </div>
-        </nav> <!--NAVBAR-->
-        
-  <div class="no-gutters common-img "></div>                                  <!--COMMON PIC-->
-  
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="eq.html">Equalization</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="comlim.html">Compressor/ Limiter</a>
+        </li>
+      </ul>
+    </div>
+  </nav><!--Navbar-->
+  <div class="no-gutters common-img "></div>
   <hr>
-                                                                            <!--MAIN-->
   <section class="container-fluid">
     <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>EQUALIZATION (EQ)</h1>
+      <div class="row">
+        <div class="col-12">
+          <h1>EQUALIZATION (EQ)</h1>
+        </div>
       </div>
-    </div>
-    <hr>
-    
-    <div class="row">             
-      <div class="col-12 col-md-6 eq"></div>
-      <div class="col-12 col-md-6"> 
-        <p>Equalization – or EQ – is one of the most well-known forms of audio processing in music production. It enables you to adjust the volume level of a frequency (or range of frequencies) within a sound, which in turn allows you to cure a sound – or sometimes even entire songs – of its imperfections. This is done by cutting unwanted frequencies and/or boosting others, all to balance out sounds that you feel are lacking.</p>
-      </div>      
-    </div>                                                 
-    <hr>
-    <h2>Types of EQ</h2>
-    <hr>
-    
-    <div class="row eqtop">
-      <div class="col-12">
-        <h3>1-Band EQ</h3>
+      <hr>
+      <div class="row">
+        <div class="eq col-12 col-md-6"></div>
+        <div class="eqtxt col-12 col-md-6">
+          <p>Equalization, also known as EQ, is probably the most used tool in audio production. It allows the user to adjust the volume of individual frequencies within a sound. This allows the sound to be cured of its imperfections. This is done by lowering the
+            volume of unwanted frequencies and increasing the volume of frequencies which enhance the sound.<br> 
+            An example of an unwanted frequency could be the constant hum of an guitar amplfier. To eliminate this unwanted sound the user would identify which frequency the
+            hum has and lower the volume of that frequency to eliminate the sound of it.<br> 
+            An example of a frequency which enhances the sound might be the frequency at which a snare drum sounds best. For this example, the user might increase the volume of this frequency to enphasize the snare drum hits and make them really stand out in a recording.<br> 
+            There are different types of equalizers that can be used. Below are explanations of two of these types-1 band and 7 band.</p>
+        </div>
       </div>
+      <hr>
       
-      <div class="col-12 col-md-6 oneband"></div>
-      <div class="col-12 col-md-6">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim laudantium doloremque natus nemo architecto eveniet iste ipsam inventore libero eos qui praesentium explicabo neque facere, optio quos pariatur voluptas hic mollitia officiis repudiandae, repellat eum, sapiente dicta! Sunt explicabo fugiat placeat aliquam exercitationem commodi dolores eum, tempore fuga voluptatibus, molestias, vel error doloribus! Quasi soluta debitis numquam doloribus quod necessitatibus, eveniet labore voluptate impedit optio quisquam quaerat quos dolores qui obcaecati laborum explicabo id repudiandae eius ad dignissimos, voluptatibus placeat accusamus. Debitis possimus, dolorem tempore, natus illo dicta nam, repudiandae voluptate iure dignissimos voluptatem cupiditate nostrum. Dignissimos cumque ducimus distinctio ab, cupiditate molestias tempore fugiat, nam dolorum iste, aliquid eius, rerum! Qui odit perspiciatis rerum placeat aliquid. Explicabo aperiam illum ipsum nulla, ea doloribus, accusamus repellendus obcaecati quis et officiis eaque enim fugit aut maiores dolorem blanditiis! Quae impedit non delectus, voluptatum maiores? Tempora enim quia similique officiis id dolore!
+      <div class="row">
+        <div class="col-12">
+          <h3>1-Band EQ</h3>
+        </div>
+        <div class="col-12 col-md-6 onebandtxt">
+          A one band EQ allows the user to adjust the volume of one particular frequency. It is the most basic EQ type. An example of when to use this would be when everything on a recording sounds very good but there is a hum that can be heard from a guitar amplifier.<br>
+          The coloured ball at the top of the shaded curve in the accompanying picture shows the frequency which is being adjusted. As you can see the shaded area is very broad and this is also raising the volume of the frequencies beside the selected one as well but this can be adjusted to be a more narrow or broader band width by adjusting the frequency parameter of the tool.<br>
+          There are usually presets available on one band EQ tools which may aleviate hours of trying to find the specific frequency you are trying to eliminate as there may be a preset for amplifier hum, amplifier feedback etc.
+        </div>
+        <div class="col-12 col-md-6 oneband"></div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <h3>7-Band EQ</h3>
+        </div>
+      </div>
+      <div class="row int">
+        <div class="col-12 col-md-6 sevenband"></div>
+        <div class="col-12 col-md-6 sevenbandtxt">
+         The seven band EQ tool is a much more advanced tool. It allows the user to adjust seven frequencies simultaneously using just the one tool.<br>
+         This tool is usually helpful in achieving a particular sound such as raising the treble of an electric guitar and reducing the bass as well or cleaning up the sound of an untuned drum set.<br>
+         As seen in the accompanying picture, there are five coloured balls each adjusting a particular frequency. The shaded areas in this picture are also very broad, affecting the frequencies beside the selected frequency but this bandwidth can be narrowed or broadened by adjusting  the frequency parameter on the chosen frequency.
+         
+        </div>
       </div>
     </div>
-    
-    
-    <div class="row">
-      <div class="col-12">
-        <h3>7-Band EQ</h3>
-      </div>
-    </div>
-    
-    <div class="row int">
-      <div class="col-12 col-md-6 sevenband"></div>
-      <div class="col-12 col-md-6">
-        
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim laudantium doloremque natus nemo architecto eveniet iste ipsam inventore libero eos qui praesentium explicabo neque facere, optio quos pariatur voluptas hic mollitia officiis repudiandae, repellat eum, sapiente dicta! Sunt explicabo fugiat placeat aliquam exercitationem commodi dolores eum, tempore fuga voluptatibus, molestias, vel error doloribus! Quasi soluta debitis numquam doloribus quod necessitatibus, eveniet labore voluptate impedit optio quisquam quaerat quos dolores qui obcaecati laborum explicabo id repudiandae eius ad dignissimos, voluptatibus placeat accusamus. Debitis possimus, dolorem tempore, natus illo dicta nam, repudiandae voluptate iure dignissimos voluptatem cupiditate nostrum. Dignissimos cumque ducimus distinctio ab, cupiditate molestias tempore fugiat, nam dolorum iste, aliquid eius, rerum! Qui odit perspiciatis rerum placeat aliquid. Explicabo aperiam illum ipsum nulla, ea doloribus, accusamus repellendus obcaecati quis et officiis eaque enim fugit aut maiores dolorem blanditiis! Quae impedit non delectus, voluptatum maiores? Tempora enim quia similique officiis id dolore!
-      </div>
-    </div> 
-    </div>
-    </section>
-  
-  
-  
+  </section>
   <footer class="container-fluid links">
     <h5 class="uppercase">Useful Sites</h5>
     <div class="sos">
       <h6>Sound on Sound:</h6>
-    <a href="https://www.soundonsound.com/" target="_blank"> <i class="fas fa-globe"></i></a>
-    <a href="https://www.youtube.com/channel/UCFw2zGrdiLLAwbNQra1vtnA" target="_blank"><i class="fab fa-youtube"></i></a>
-    <a href="https://www.facebook.com/soundonsoundmag/" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.soundonsound.com/" target="_blank"> <i class="fas fa-globe"></i></a>
+      <a href="https://www.youtube.com/channel/UCFw2zGrdiLLAwbNQra1vtnA" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://www.facebook.com/soundonsoundmag/" target="_blank"><i class="fab fa-facebook"></i></a>
     </div>
     <div class="mwthm">
       <h6>Mix with the Masters:</h6>
-    <a href="https://mixwiththemasters.com/" target="_blank"><i class="fas fa-globe"></i></a>
-    <a href="https://www.youtube.com/user/MixWithTheMASTERS" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://mixwiththemasters.com/" target="_blank"><i class="fas fa-globe"></i></a>
+      <a href="https://www.youtube.com/user/MixWithTheMASTERS" target="_blank"><i class="fab fa-youtube"></i></a>
       <a href="https://www.facebook.com/MixWithTheMasters/" target="_blank"><i class="fab fa-facebook"></i></a>
     </div>
-     <div class="pa">
+    <div class="pa">
       <h6>Production Advice:</h6>
-    <a href="https://productionadvice.co.uk/" target="_blank"><i class="fas fa-globe"></i></a>
-    <a href="https://www.youtube.com/channel/UCMFrnWIF6N5YtOZzmCGP16A" target="_blank"><i class="fab fa-youtube"></i></a>
-     <a href="https://www.facebook.com/ProductionAdvice/" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://productionadvice.co.uk/" target="_blank"><i class="fas fa-globe"></i></a>
+      <a href="https://www.youtube.com/channel/UCMFrnWIF6N5YtOZzmCGP16A" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://www.facebook.com/ProductionAdvice/" target="_blank"><i class="fab fa-facebook"></i></a>
     </div>
-    
     <div class="copy">
       <small>&copy; Copyright 2019, DaveTynan@codeinstitute</small>
     </div>
-   
-    
-   
-   
-    </footer>
-    
+  </footer>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+
 </html>
