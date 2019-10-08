@@ -23,9 +23,16 @@ The Compressor/Limiter page consists of an explanation of what both these tools 
 ### Footer
 The footer is common for every page of the project. It consists of links to websites that are well renowned for audio production advice and a copyright for the projects page.<br>
 I have created icons for the links using font awesome icons for the website, facebook and youtube pages of each link related to it.If the user clicks on the facebook icon for a particular link, they will be taken to the pages facebook page. If a user clicks on the youtube icon for a link, they will be taken to the links youtube channel, If a user clicks on the internet icon for a link, they will be taken to the links website. These links change colour with a transition when the mouse hovers over them. The website icons colour will change to green, the facebook icons colour will change to blue and the youtube icons colour will change to red  <br>
-
-
+### External Links
+All external links open in a new browser tab when selected.
+### Future Plans
+Future plans for this project could be to have more navigation bar options to give information on tools found within the software and tips on using them.
 ## Technologies Used
-This website was created using HTML, CSS, Bootstrap and Jacvascript.<br>
-I have incorparated bootstrap into this project to help with creating columns and improving the responsive design of the site. The bootstrap CDN can be found here: https://getbootstrap.com/docs/4.3/getting-started/download/   <br>
-I have also made use of Google Fonts to apply style to the text on the website: https://fonts.google.com/
+* HTML<br>
+This project uses HTML to provide the structure of the pages.
+* CSS<br>
+This project uses CSS to provide styling to the HTML structure.
+* Bootstrap<br>
+I have used a lot of the row/column tactic in this project to help provide further structure to the page.
+* JavaScript<br>
+I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particularsize.
