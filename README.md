@@ -33,6 +33,34 @@ This project uses HTML to provide the structure of the pages.
 * CSS<br>
 This project uses CSS to provide styling to the HTML structure.
 * Bootstrap<br>
-I have used a lot of the row/column tactic in this project to help provide further structure to the page.
+I have used a lot of the bootstrap grid system in this project to help provide further structure to the page.
 * JavaScript<br>
-I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particularsize.
+I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particular size.
+
+## Testing
+I had some issues with using the bootstrap row and columns technique, especially for the digital audio workstation software icons to allow spaces between each icon but I was able to resolve this by setting all the icons to the same dimensions and including some padding for them.<br>
+I changed the image underneath the Navbar to a different image than the one I did my wireframe for. This was due to the collapsable feature on the navbar when at a certain width. The text became unreadable with the image included in my wireframe.<br>
+I was originally going to keep every  paragraph on the right hand side of the pages and have the pictures on the left hand side but I found that alternating these arrangements better suited the project.<br>
+I came across errors using the bootstrap grid system in which text would overlap pictures and pictures would overlap text when the screen was minimised. I resolved this by starting the grid system from scratch which resolved these issues.<br>
+On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list.<br>
+On larger screens the pictures and paragraphs share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying picture either abover or below the text.
+## Deployment
+I have deployed this project to GitHub. I have done this by creating a repository on the Github website and pushing the project to the repository using the projects terminal window.<br>
+Throughout the project I have also made use of the local git using the projects terminal and have added and committed changes to this as I progressed throughout the project.<br>
+Throughout the project I have created different github repositiories for this project. This was due to my lack of knowledge of retrieving the github directory name if I closed the Github page but as I progressed I learned that the changes would be sent to the original github master by using the git push command without the directory name included.<br>
+## Credits
+### Photos
+A lot of the photos used for this project have been screenshots taken using my computer.<br>
+For the common image below the navigation bar, I got this image from: https://cdn-images-1.medium.com/fit/t/800/240/1*C85p0nXx8jle1XoKfWCRYA.png <br>
+For the Pro Tools software icon, I got this from:https://images.fmctraining.com/images/fmc-icon-avid-pro-tools-223x175.jpg<br>
+For the Ableton software icon, I got this from:https://i.redd.it/meg6nawssnb01.jpg <br>
+For the Audacity software icon, I got this from:https://crisponair.blog/2016/07/02/your-favourite-free-audio-editor-has-accessibility/<br>
+For the Audition software icon, I got this from: https://www.adobe.com/content/dam/acom/en/cc-wam/images/Au_446x272.jpg <br>
+The Mac and Windows computer image I have is from: https://s3.amazonaws.com/images.ecwid.com/images/10833132/459077174.jpg <br>
+The audio interface image I have is from: http://guitarrecordingpro.com/wp-content/uploads/2019/06/Best-Audio-Interfaces-For-Under-200-1024x512.jpg <br>
+The microphones image I have is from:
+https://static.sonovente.com/img/front/cms/21e4d5f4b5eca6f6b79677365c70d11c.jpg <br>
+The common image for the intrductory paragraphs for the equalization page and the compressor/limiter page was found here: https://www.jakpost.travel/wimages/large/101-1013492_musical-background-white-treble-clef-moving-horizontal-music.png
+
+
+
