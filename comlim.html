@@ -60,18 +60,15 @@
     </div>
     <div class="row">
       <div class="compresstxt col-12 col-md-6">
-        <!--Compression explanation taken from https://music.tutsplus.com/tutorials/the-beginners-guide-to-compression--audio-953-->
-        <p>Compression is the process of lessening the dynamic range between the loudest and quietest parts of an audio signal. This is done by boosting the quieter signals and attenuating the louder signals. The controls you are given to set up a compressor
-          are usually:</p>
+        <p>Compression lessens the dynamic range between the loudest and quietest parts of an audio signal. The loudest parts of the signal are attenuated and the quieter parts are boosted in volume. Usually the controls on all compressors are the same which are:</p>
         <ul>
-          <li>Threshold - how loud the signal has to be before compression is applied.</li>
-          <li>Ratio - how much compression is applied. For example, if the compression ratio is set for 6:1, the input signal will have to cross the threshold by 6 dB for the output level to increase by 1dB.</li>
-          <li>Attack - how quickly the compressor starts to work.</li>
-          <li>Release - how soon after the signal dips below the threshold the compressor stops.</li>
-          <li>Knee - sets how the compressor reacts to signals once the threshold is passed. Hard Knee settings mean it clamps the signal straight away, and Soft Knee means the compression kicks in more gently as the signal goes further past the threshold.</li>
-          <li>Make-Up Gain - allows you to boost the compressed signal. as compression often attenuates the signal significantly.</li>
-          <li>Output - allows you to boost or attenuate the level of the signal output from the compressor.</li>
-        </ul>
+          <li>Threshold: This is how loud the signal has to be before the compression is applied.</li>
+          <li>Ratio: This is how much compression is applied. If a compression ratio is set to 5:1, the input for the compressor would have to cross the threshold by 5 decibels for the output level to increase by 1 decibel. 
+          <li>Attack: This is how quickly the compressor starts to work.</li>
+          <li>Release: This is how soon after the signal drops below the threshold that the compressor stops being applied.</li>
+          <li>Knee: This sets how to the compressor reacts to signals after the threshold is passed. A high knee setting would mean that the signal is affected as soon as the threshold is passed, wheras, a low knee setting allows the compression to be applied more gently as the signal goes further past the threshold setting. </li>
+          <li>Gain: This allow the user to adjust the volume of the affected signal to a higher level after the compression is applied.</li>
+          </ul>
       </div>
       <div class="col-12 col-md-6 compresspic"></div>
     </div>
@@ -80,18 +77,13 @@
         <h3>Limiter</h3>
       </div>
     </div>
-    <div class="row int">
+    <div class="row">
       <div class="col-12 col-md-6 limiter"></div>
       <div class="col-12 col-md-6 limitertxt">
-        <!--Limiter explanation taken from https://www.practical-music-production.com/audio-limiter/-->
-        <p>The audio limiter is a very similar tool to the audio compressor in that it reduces the dynamic range of a signal that passes through it. A compressor gradually reduces the signal level above a certain threshold, but a limiter completely prevents
-          a signal from going over a specified setting – a limit that nothing can go over.</p>
-        <p>You can set the limiter so that it catches and prevents any of the signal from clipping and distorting – it’s a very useful way to ensure your recording signal doesn’t go ‘into the red’.</p>
-        <p>The ratio setting on an audio limiter (also known as a sound limiter) is usually set at 20:1 or higher, going up to infinity:1 (∞:1). This is the biggest difference you’ll find between a compressor and a limiter.</p>
-        <p>An audio limiter is most commonly used at the mastering stage of a record, where the limiter is used as the last processing device across the whole mix. The ratio is fixed at ∞:1 – this means that as soon as the signal hits the specified ceiling
-          level, it cannot go any higher. This is also known as ‘brick wall limiting‘.</p>
-        <p>A mastering engineer will use a limiter to boost the overall level of a finished track or album, and to squeeze as much volume out as possible. But it’s important to point out that the qualities of the sound are not affected – the only difference
-          is in the perceived loudness of the track that you hear being raised.</p>
+        <p>Limiters are very similar to compressors. They also lessen the dynamic range between the loudest and quietest parts of an audio signal. A limiter completely prevents a signal volume from going over a specified threshold setting. Limiters can be more noticeable when applied,wheras a compressor is gradually applied and less obvious the signal is being affected.</p>
+        <p>The limiter is a good tool for ensuring that any of the signal doesnt distort even at its loudest part.
+        <p>The biggest difference between using a compressor and a limiter is that the ratio setting on a limiter is set much higher than the ratio setting on a compressor.</p>
+        <p>The limiter is the last audio tool in the audio processor chain and is used for mastering the audio signal. The limiter is used to increase the overall volume of the audio signal.</p>
       </div>
     </div>
     </div>
@@ -120,8 +112,9 @@
       <small>&copy; Copyright 2019, DaveTynan@codeinstitute</small>
     </div>
   </footer>
-</body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+</body>
+
 
 </html>
