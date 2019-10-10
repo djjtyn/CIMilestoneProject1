@@ -41,6 +41,8 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 Event
 ![picture](md-images/pro-tools-click.png)
+
+HTML validation done with https://validator.w3.org/
 I had some issues with using the bootstrap row and columns technique, especially for the digital audio workstation software icons to allow spaces between each icon but I was able to resolve this by setting all the icons to the same dimensions and including some padding for them.<br>
 I changed the image underneath the Navbar to a different image than the one I did my wireframe for. This was due to the collapsable feature on the navbar when at a certain width. The text became unreadable with the image included in my wireframe.<br>
 I was originally going to keep every  paragraph on the right hand side of the pages and have the pictures on the left hand side but I found that alternating these arrangements better suited the project.<br>
