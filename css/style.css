@@ -273,6 +273,10 @@ footer .fa-globe:hover {
    padding-bottom: 5px;
 }
 
+iframe {
+    margin-top: 5px;
+}
+
 .compresstxt ul li {
     list-style:disc;
     font-family: arial;
@@ -284,7 +288,7 @@ footer .fa-globe:hover {
 .limiter {
     height: 350px;
     
-    background-image: url("../images/limiter.jpg");
+    background-image: url("../images/limiter.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position:center;
