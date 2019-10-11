@@ -3,7 +3,8 @@ For my first milestone project, I chose to create a website containing informati
 The site also has some information on audio post production tools contained within the software programs which will allow a user to enhance the audio quality of their recordings after the audio is recorded.<br>
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br> 
-As a user, I want to find out about some software available for download to allow me to make good quality home audio recordings. As a user, I want to find out about the requirements neccessary to make use of such software. As a user, I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
+As a user, I want to find out about some software available for download to allow me to make good quality home audio recordings and learn about the features of the specific software listed on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to each softwares features.<br>
+As a user, I want to find out about the requirements neccessary to make use of such software. To read about I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
 I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept the page layout template I created within the wireframes.<br>
 ## Features
 ### Navbar
