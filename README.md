@@ -39,18 +39,20 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ## Testing
 
+
 ### Validation
 
-The HTML validation was done using the HTML validator found at "https://validator.w3.org/". It showed a few errors in the coding for the software icons but I was able to resolve these by adding alt attributes to each icon.<br>
-The CSS validation was done using the CSS validator found at "https://jigsaw.w3.org/css-validator/" and this test returned no errors.
+The HTML validation was done using the HTML validator tool found at "https://validator.w3.org/". It showed a few errors in the coding for the software icons but I was able to resolve these by adding alt attributes to each icon.<br>
+The CSS validation was done using the CSS validator tool found at "https://jigsaw.w3.org/css-validator/" and this test returned no errors.
 
 ### Bootstrap
 I had some issues with using the bootstrap grid system, in which the text would overlap the images or the images would overlap the text at some parts of the site. I deleted all the original bootstrap code I had coded and started again being more cautious which resolved this.<br>
 
-###Images
-I changed the image underneath the Navbar to a different image than the one I did my wireframe for. This was due to the collapsable feature on the navbar when at a certain width. The text became unreadable with the image included in my wireframe.<br>
-I was originally going to keep every  paragraph on the right hand side of the pages and have the pictures on the left hand side but I found that alternating these arrangements better suited the project.<br>
-I came across errors using the bootstrap grid system in which text would overlap pictures and pictures would overlap text when the screen was minimised. I resolved this by starting the grid system from scratch which resolved these issues.<br>
+### Images
+I changed the image underneath the Navbar to a different image than the one I did my wireframe for. This was due to the collapsable feature on the navbar when the screen gets to a certain width. The text became unreadable with the image included in my wireframe.<br>
+
+### Layout
+I was originally going to keep every paragraph on the right hand side of the pages and every pictures on the left hand side but I found that alternating these arrangements better suited the project.<br>
 On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list.<br>
 On larger screens the pictures and paragraphs share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying picture either abover or below the text.
 ## Deployment
