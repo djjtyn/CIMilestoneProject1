@@ -41,11 +41,18 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ## Testing
 
-### Pro Tools icon Click Action
+### Pro Tools Icon Click Action
 ![image](md-images/pro-tools-click.png)
 
-### Pro Tools icon Click Result
+### Pro Tools Icon Click Result (TEST PASSED)
 ![image](md-images/pro-tools-features.png)
+
+### Ableton Icon Click Action
+![image](md-images/abletonclick.png)
+
+### Ableton Icon Click Result (TEST PASSED)
+![image](md-images/abletonclickresult.png)
+
 
 ### Validation
 
