@@ -85,6 +85,13 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audacity On Windows Click Result (TEST PASSED)
 ![image](md-images/audacitywindowresult.png)
 
+### Audacity On MAC Click Action
+![image](md-images/audacity-on-mac-click.png)
+
+### Audacity On MAC Click Result (TEST PASSED)
+![image](md-images/audacityonmacresult.png)
+
+
 
 
 
