@@ -79,6 +79,12 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audition Icon Click Result (TEST PASSED)
 ![image](md-images/auditionfeatures.png)
 
+### Audacity On Windows Click Action
+![image](md-images/audacity-on-windows-click.png)
+
+### Audacity On Windows Click Result (TEST PASSED)
+![image](md-images/audacitywindowresult.png)
+
 
 
 
