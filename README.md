@@ -91,11 +91,26 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audacity On MAC Click Result (TEST PASSED)
 ![image](md-images/audacityonmacresult.png)
 
-### Ableton On Wndows and MAC Click Action
+### Ableton On Windows and MAC Click Action
 ![image](md-images/ableton-on-windows&mac-click.png)
 
-### Ableton On Wndows and MAC Click Result (TEST PASSED)
+### Ableton On Windows and MAC Click Result (TEST PASSED)
 ![image](md-images/abletonrequirements.png)
+
+### ProTools On Windows and MAC Click Action
+![image](md-images/protools-on-windows&mac-click.png)
+
+### ProTools On Wndows and MAC Click Result (TEST PASSED)
+![image](md-images/ptrequirements.png)
+
+### Audition On Windows and MAC Click Action
+![image](md-images/audition-on-windows&mac-click.png)
+
+### Audition On Windows and MAC Click Result (TEST PASSED)
+![image](md-images/auditionrequirements.png)
+
+
+
 
 
 
