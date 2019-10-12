@@ -41,10 +41,10 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ## Testing
 
-###Pro Tools icon Click Action
+### Pro Tools icon Click Action
 ![image](md-images/pro-tools-click.png)
 
-###Pro Tools icon Click Result
+### Pro Tools icon Click Result
 ![image](md-images/pro-tools-features.png)
 
 ### Validation
