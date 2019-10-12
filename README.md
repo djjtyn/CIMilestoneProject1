@@ -109,6 +109,17 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audition On Windows and MAC Click Result (TEST PASSED)
 ![image](md-images/auditionrequirements.png)
 
+### Interface Click Action
+![image](md-images/interfacelist.png)
+
+### Interface Click Result (TEST PASSED)
+![image](md-images/interfacesite.png)
+
+### Microphone Click Action
+![image](md-images/miclist.png)
+
+### Microphone Click Result (TEST PASSED)
+![image](md-images/micsite.png)
 
 
 
