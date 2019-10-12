@@ -48,6 +48,13 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ![image](md-images/compressor-page.png)
 
+### Navbar Toggler
+![image](md-images/navbartoggler.png)
+
+### Navbar Toggler Active (TEST PASSED)
+![image](md-images/navbartoggleractive.png)
+
+
 ### Pro Tools Icon Click Action
 ![image](md-images/pro-tools-click.png)
 
