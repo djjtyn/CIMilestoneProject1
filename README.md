@@ -53,6 +53,13 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Ableton Icon Click Result (TEST PASSED)
 ![image](md-images/abletonclickresult.png)
 
+### Audacity Icon Click Action
+![image](md-images/audacityclick.png)
+
+### Auacity Icon Click Result (TEST PASSED)
+![image](md-images/features.png)
+
+
 
 ### Validation
 
