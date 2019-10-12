@@ -40,7 +40,7 @@ I have used a lot of the bootstrap grid system in this project to help provide f
 I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particular size.
 
 ## Testing
-https://github.com/djjtyn/milestonepractise/blob/master/md-images/abletonclick.png
+https://raw.githubusercontent.com/djjtyn/milestonepractise/master/md-images/abletonclick.png
 
 ### Validation
 
