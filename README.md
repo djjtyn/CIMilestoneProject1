@@ -40,8 +40,12 @@ I have used a lot of the bootstrap grid system in this project to help provide f
 I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particular size.
 
 ## Testing
+
+###Pro Tools icon Click Action
 ![image](md-images/pro-tools-click.png)
-![image](md-images/abletonclick.png)
+
+###Pro Tools icon Click Result
+![image](md-images/pro-tools-features.png)
 
 ### Validation
 
