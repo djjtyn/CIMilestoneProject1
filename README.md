@@ -121,6 +121,32 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Microphone Click Result (TEST PASSED)
 ![image](md-images/micsite.png)
 
+### Footer Static
+![image](md-images/footer-static.png)
+
+### Sound on Sound Web Icon Hover (TEST PASSED)
+![image](md-images/sos-webhover.png)
+
+### Sound on Sound Web Icon Click Result (TEST PASSED)
+![image](md-images/sossite.png)
+
+### Sound on Sound Youtube Icon Hover (TEST PASSED)
+![image](md-images/sos-youtubehover.png)
+
+### Sound on Sound Youtube Icon Click Result (TEST PASSED)
+![image](md-images/sosyoutube.png)
+
+### Sound on Sound Facebook Icon Hover (TEST PASSED)
+![image](md-images/sos-fbhover.png)
+
+### Sound on Sound Facebook Icon Click Result (TEST PASSED)
+![image](md-images/sosfb.png)
+
+
+
+
+
+
 
 
 
