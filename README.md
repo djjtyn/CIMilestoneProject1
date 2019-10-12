@@ -59,6 +59,15 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audcity Icon Click Result (TEST PASSED)
 ![image](md-images/audacityfeatures.png)
 
+### Audition Icon Click Action
+![image](md-images/audition-click.png)
+
+### Audition Icon Click Result (TEST PASSED)
+![image](md-images/auditionfeatures.png)
+
+
+
+
 
 
 ### Validation
