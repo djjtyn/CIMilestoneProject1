@@ -160,6 +160,24 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Mix with the Masters Facebook Icon Click Result (TEST PASSED)
 ![image](md-images/mwthfb.png)
 
+### Production Advice Web Icon Hover (TEST PASSED)
+![image](md-images/pa-webhover.png)
+
+### Production Advice Web Icon Click Result (TEST PASSED)
+![image](md-images/pasite.png)
+
+### Production Advice Youtube Icon Hover (TEST PASSED)
+![image](md-images/pa-youtubehover.png)
+
+### Production Advice Youtube Icon Click Result (TEST PASSED)
+![image](md-images/payoutube.png)
+
+### Production Advice Facebook Icon Hover (TEST PASSED)
+![image](md-images/pa-fbhover.png)
+
+### Production Advice Facebook Icon Click Result (TEST PASSED)
+![image](md-images/pafb.png)
+
 
 
 
