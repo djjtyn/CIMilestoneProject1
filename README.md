@@ -56,8 +56,8 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audacity Icon Click Action
 ![image](md-images/audacityclick.png)
 
-### Auacity Icon Click Result (TEST PASSED)
-![image](md-images/features.png)
+### Audcity Icon Click Result (TEST PASSED)
+![image](md-images/audacityfeatures.png)
 
 
 
