@@ -1,6 +1,7 @@
 # Digital Audio Workstations
 For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and enhancing their audio.<br> 
 The site also has some information on audio post production tools contained within the software programs which will allow a user to enhance the audio quality of their recordings after the audio is recorded.<br>
+A deployed verseion of this website can be found here: https://djjtyn.github.io/milestonepractise/
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br> 
 As a user, I want to find out about some software available for download to allow me to make good quality home audio recordings and learn about the features of the specific software listed on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to each softwares features.<br>
@@ -39,7 +40,7 @@ I have used a lot of the bootstrap grid system in this project to help provide f
 I have incorporated JavaScript in this project to allow the navigation headings to be shown in a toggle button once the screen width gets to a particular size.
 
 ## Testing
-
+https://github.com/djjtyn/milestonepractise/blob/master/md-images/abletonclick.png
 
 ### Validation
 
