@@ -142,6 +142,23 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Sound on Sound Facebook Icon Click Result (TEST PASSED)
 ![image](md-images/sosfb.png)
 
+### Mix with the Masters Web Icon Hover (TEST PASSED)
+![image](md-images/mwtm-webhover.png)
+
+### Mix with the Masters Web Icon Click Result (TEST PASSED)
+![image](md-images/mwtmsite.png)
+
+### Mix with the Masters Youtube Icon Hover (TEST PASSED)
+![image](md-images/mwtm-youtubehover.png)
+
+### Mix with the Masters Youtube Icon Click Result (TEST PASSED)
+![image](md-images/mwtmyoutube.png)
+
+### Mix with the Masters Facebook Icon Hover (TEST PASSED)
+![image](md-images/mwtm-fbhover.png)
+
+### Mix with the Masters Facebook Icon Click Result (TEST PASSED)
+![image](md-images/mwthfb.png)
 
 
 
