@@ -91,6 +91,12 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Audacity On MAC Click Result (TEST PASSED)
 ![image](md-images/audacityonmacresult.png)
 
+### Ableton On Wndows and MAC Click Action
+![image](md-images/ableton-on-windows&mac-click.png)
+
+### Ableton On Wndows and MAC Click Result (TEST PASSED)
+![image](md-images/abletonrequirements.png)
+
 
 
 
