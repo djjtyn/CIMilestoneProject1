@@ -42,9 +42,9 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ## Testing
 
 ### Multi Page Switching Test (TEST PASSED)
-![image](md-images/Home-page.png)
-![image](md-images/EQ-page.png)
-![image](md-images/compressor-page.png)
+![image](md-images/Home-page.png)<br>
+![image](md-images/EQ-page.png)<br>
+![image](md-images/compressor-page.png)<br>
 
 ### Pro Tools Icon Click Action
 ![image](md-images/pro-tools-click.png)
