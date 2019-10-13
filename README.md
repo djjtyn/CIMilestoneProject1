@@ -1,5 +1,5 @@
 # Digital Audio Workstations
-For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and enhancing their audio.<br> 
+For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools for enhancing their audio quality.<br> 
 The site also has some information on audio post production tools contained within the software programs which will allow a user to enhance the audio quality of their recordings after the audio is recorded.<br>
 A deployed verseion of this website can be found here: https://djjtyn.github.io/milestonepractise/
 ## UX
@@ -7,6 +7,8 @@ This website is aimed at people who are interested in learning about recording a
 As a user, I want to find out about some software available for download to allow me to make good quality home audio recordings and learn about the features of the specific software listed on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to each softwares features.<br>
 As a user, I want to find out about the requirements neccessary to make use of such software. To read about I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
 I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept the page layout template I created within the wireframes.<br>
+### Page 1 Wireframe
+![image](Wireframes/page1.png)
 ## Features
 ### Navbar
 I have created a navigation bar which consists of three clickable page headings which are "Home", "Equalization" and "Compressor/Limiter". The currently selected page becomes highlighted and the pages that arent selected appear darker. In addition to the page headings I have included a font awesome icon of a headphone in the navigation bar <br>
