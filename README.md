@@ -205,6 +205,8 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
 
+youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
+
 ### Validation
 
 The HTML validation was done using the HTML validator tool found at "https://validator.w3.org/". It showed a few errors in the coding for the software icons but I was able to resolve these by adding alt attributes to each icon.<br>
