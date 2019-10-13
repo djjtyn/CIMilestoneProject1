@@ -207,6 +207,8 @@ http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2
 
 youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
 
+favicon bug
+
 ### Validation
 
 The HTML validation was done using the HTML validator tool found at "https://validator.w3.org/". It showed a few errors in the coding for the software icons but I was able to resolve these by adding alt attributes to each icon.<br>
