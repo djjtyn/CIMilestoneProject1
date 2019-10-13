@@ -9,6 +9,14 @@ As a user, I want to find out about the requirements neccessary to make use of s
 I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept the page layout template I created within the wireframes.<br>
 ### Page 1 Wireframe
 ![image](Wireframes/page1.png)
+
+### Page 2 Wireframe
+![image](Wireframes/page2.png)
+
+### Page 3 Wireframe
+![image](Wireframes/page3.png)
+
+
 ## Features
 ### Navbar
 I have created a navigation bar which consists of three clickable page headings which are "Home", "Equalization" and "Compressor/Limiter". The currently selected page becomes highlighted and the pages that arent selected appear darker. In addition to the page headings I have included a font awesome icon of a headphone in the navigation bar <br>
