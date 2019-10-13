@@ -2,11 +2,16 @@
 For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools for enhancing their audio quality.<br> 
 The site also has some information on audio post production tools contained within the software programs which will allow a user to enhance the audio quality of their recordings after the audio is recorded.<br>
 A deployed verseion of this website can be found here: https://djjtyn.github.io/milestonepractise/
+
 ## UX
-This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br> 
-As a user, I want to find out about some software available for download to allow me to make good quality home audio recordings and learn about the features of the specific software listed on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to each softwares features.<br>
-As a user, I want to find out about the requirements neccessary to make use of such software. To read about I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
-I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept the page layout template I created within the wireframes.<br>
+This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br>
+The grey background for I used for each page was chosen because I thought this was the most suitable colour to allow the other elements of the page to stand out from their background and not distract the user away from the page content.
+I chose the staggered text-picture, picture-text layout as I think this looks better than having all the images and text in the same page area for each page. 
+As a user, I want to find out about some of the different software available for download to allow me to make good quality home audio recordings and learn about the different features of each listed software on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to websites containing information on the softwares features.<br>
+As a user, I want to find out what machine specification my computer needs to run my prefferred software of choice. These requirements are included on this site.
+As a user, I want to find out about the requirements neccessary to make use of such software. The user may also want recommendations on which neccessary equipment is best to buy, which I have also included on the site.<br>
+I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
+I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept a lot of the page layout template I created within the wireframes.<br>
 ### Page 1 Wireframe
 ![image](Wireframes/page1.png)
 
@@ -198,7 +203,7 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 
 
-
+http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
 
 ### Validation
 
