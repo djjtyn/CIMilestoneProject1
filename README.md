@@ -1,16 +1,16 @@
 # Digital Audio Workstations
-For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools for enhancing their audio quality.<br> 
-The site also has some information on audio post production tools contained within the software programs which will allow a user to enhance the audio quality of their recordings after the audio is recorded.<br>
+For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools to be used for enhancing their audio quality.<br> 
 A deployed verseion of this website can be found here: https://djjtyn.github.io/milestonepractise/
 
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br>
-The grey background for I used for each page was chosen because I thought this was the most suitable colour to allow the other elements of the page to stand out from their background and not distract the user away from the page content.
-I chose the staggered text-picture, picture-text layout as I think this looks better than having all the images and text in the same page area for each page. 
-As a user, I want to find out about some of the different software available for download to allow me to make good quality home audio recordings and learn about the different features of each listed software on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to websites containing information on the softwares features.<br>
-As a user, I want to find out what machine specification my computer needs to run my prefferred software of choice. These requirements are included on this site.
-As a user, I want to find out about the requirements neccessary to make use of such software. The user may also want recommendations on which neccessary equipment is best to buy, which I have also included on the site.<br>
-I want to ascertain information on commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied.ed<br>
+The grey background I used for each page was chosen because I thought this was the most suitable colour to allow the other elements of the page to stand out from their background and not distract the user away from the page content.<br>
+I chose the staggered text-picture, picture-text layout as I think this looks better than having all the images and text in the same page area for each page.<br> 
+As a user, I want to find out about some of the different software available for download to allow me to make good quality home audio recordings and learn about the different features of each software named on the site. This is done by clicking on any of the sotware icons on the Home page which will take the user to websites containing information on the softwares features.<br>
+As a user, I want to find out about the requirements neccessary to make use of such software.
+As a user, I want to find out what machine specifications my computer needs to run my prefferred software of choice. This is done by clicking on the different links found within the computer requirements section on the Home page.<br>
+The user may also want recommendations on which neccessary equipment is best to buy, which I have also included on the site and can be found with links contained in both the audio interface and microphone requirement sections found on the Home page.<br>
+As a user, I want to ascertain information on some commonly used tools found within the sotfware programs to make the audio sound better and learn what these tools do to the recorded audio when applied. This is done by clicking on the Equalization and Compressor/Limiter navigation bar headings which take the user to pages containing information on each tool.<br>
 I have created wireframes for each of the pages and have included them in a wireframe folder within the project. These wireframes are titled "page1.png","page2.png" and "page3.png". As I progressed throughout the project I changed the images for certain parts of the pages but kept a lot of the page layout template I created within the wireframes.<br>
 ### Page 1 Wireframe
 ![image](Wireframes/page1.png)
@@ -21,29 +21,34 @@ I have created wireframes for each of the pages and have included them in a wire
 ### Page 3 Wireframe
 ![image](Wireframes/page3.png)
 
-
 ## Features
 ### Navbar
 I have created a navigation bar which consists of three clickable page headings which are "Home", "Equalization" and "Compressor/Limiter". The currently selected page becomes highlighted and the pages that arent selected appear darker. In addition to the page headings I have included a font awesome icon of a headphone in the navigation bar <br>
-I have incorporated javascript into the navbar by allowing a navbar toggler button to appear in place of the menu headings which contains the nav headings once the screen is at a certain width to incorporate some responsive design into the project<br>
+I have incorporated javascript into the navbar by allowing a navbar toggler button to appear in place of the menu headings which contains the navigation headings once the screen is at a certain width.<br>
 The navbar and the image directly below the navbar are both common features on all the pages included in the project.<br>
 ### Home Page
 The home page on the site consists of an explanation of what a digital audio workstation is. Also included in this section are a few examples of the existing software available accompanied by pictures of the software logos. Each software icon logo is a link to that particular softwares website which gives information on the features available in that particular software.<br>
 Below this, I have listed the requirements neccessary to start producing high quality home audio. These requirement sections consist of computers, audio interfaces and microphones with pictures of each component beside their text areas.<br>
-Found within the computer section is a list of hyperlinks for both apple and windows computers which give details of the computer specifications required to run the software. I have included font awesome icons for both apple and windows symbols which accompany the text stating what each link is for. This is to help the user decide on which audio interface would be best suited for them.<br>
-Found within the audio interface section is a hyperlink to a website which gives a list of some of the best audio interfaces available in 2019.<br>
+Found within the computer section is a list of hyperlinks for both apple and windows computers which give details of the computer specifications required to run the software. I have included font awesome icons for both apple and windows symbols which accompany the text stating what each link is for. This is to help the user decide on which software would be best suited for them.<br>
+Found within the audio interface section is a hyperlink to a website which gives a list of some of the best audio interfaces available in 2019. This is to help the user choose which interface to buy which would be best suited to them.<br>
 Found within the microphone section is a hyperlink to a website which gives a list of some of the best budget microphones available for home recording. This is to help the user choose which microphone to buy which would be best suited to them.
+
 ### Equalization Page
-The Equalization page consists of an explanation of what EQ is and why it is important in audio production. I also give explanations on different types of Equalisers available accompanied with screenshots of the stock pro tools EQ plug ins available.
+The Equalization page consists of an explanation of what Equalization is and why it is important in audio production. I also give explanations on different types of Equalisers available accompanied with screenshots of some of the stock Pro Tool EQ plug ins available.
+
 ### Compressor/Limiter Page
-The Compressor/Limiter page consists of an explanation of what both these tools do and why they are important in audio production with the explanations accompanied by screenshots for each audio tool.<br>
+The Compressor/Limiter page consists of an explanation of what both these tools do and why they are important in audio production with the explanations accompanied by stock ProTool plugin screenshots for each audio tool.<br>
+
 ### Footer
 The footer is common for every page of the project. It consists of links to websites that are well renowned for audio production advice and a copyright for the projects page.<br>
-I have created icons for the links using font awesome icons for the website, facebook and youtube pages of each link related to it.If the user clicks on the facebook icon for a particular link, they will be taken to the pages facebook page. If a user clicks on the youtube icon for a link, they will be taken to the links youtube channel, If a user clicks on the internet icon for a link, they will be taken to the links website. These links change colour with a transition when the mouse hovers over them. The website icons colour will change to green, the facebook icons colour will change to blue and the youtube icons colour will change to red  <br>
+I have created icons for the links using font awesome icons for their websites, facebook and youtube pages of each link related to it.If the user clicks on the facebook icon for a particular link, they will be taken to the pages facebook page. If a user clicks on the youtube icon for a link, they will be taken to the links youtube channel, If a user clicks on the internet icon for a link, they will be taken to the links website. These links change colour with a transition when the mouse hovers over them. The website icons colour will change to green, the facebook icons colour will change to blue and the youtube icons colour will change to red<br>
+
 ### External Links
 All external links open in a new browser tab when selected.
+
 ### Future Plans
-Future plans for this project could be to have more navigation bar options to give information on tools found within the software and tips on using them.
+Future plans for this project would be to have more navigation bar options to give additional information on tools found within the software and tips on using them.
+
 ## Technologies Used
 * HTML<br>
 This project uses HTML to provide the structure of the pages.
@@ -68,7 +73,6 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ### Navbar Toggler Active (TEST PASSED)
 ![image](md-images/navbartoggleractive.png)
-
 
 ### Pro Tools Icon Click Action
 ![image](md-images/pro-tools-click.png)
@@ -193,37 +197,23 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 ### Production Advice Facebook Icon Click Result (TEST PASSED)
 ![image](md-images/pafb.png)
 
-
-
-
-
-
-
-
-
-
-
-http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
-
-youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
-
-
-
 ### Validation
-
 The HTML validation was done using the HTML validator tool found at "https://validator.w3.org/". It showed a few errors in the coding for the software icons but I was able to resolve these by adding alt attributes to each icon.<br>
 The CSS validation was done using the CSS validator tool found at "https://jigsaw.w3.org/css-validator/" and this test returned no errors.
 
 ### Bootstrap
-I had some issues with using the bootstrap grid system, in which the text would overlap the images or the images would overlap the text at some parts of the site. I deleted all the original bootstrap code I had coded and started again being more cautious which resolved this.<br>
+I had some issues with using the bootstrap grid system, in which the text would overlap the images or the images would overlap the text at some parts of the site when the screensize was made smaller. I deleted all the original bootstrap code I had coded and started again being more cautious which resolved this.<br>
 
 ### Images
-I changed the image underneath the Navbar to a different image than the one I did my wireframe for. This was due to the collapsable feature on the navbar when the screen gets to a certain width. The text became unreadable with the image included in my wireframe.<br>
+I changed a lot of images on the sites to images that were different from my wirestrap imaging ideas. This was due to thinking that the images which I chose for my deployed project to be more aesthetically pleasing than my original ideas for the images.
 
 ### Layout
-I was originally going to keep every paragraph on the right hand side of the pages and every pictures on the left hand side but I found that alternating these arrangements better suited the project.<br>
-On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list.<br>
-On larger screens the pictures and paragraphs share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying picture either abover or below the text.
+I was originally going to keep all the sites text on the right hand side of the pages and all the sites pictures on the left hand side of the pages but I found that alternating these arrangements better suited the project.<br>
+
+### Responsiveness
+On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list accessible by clicking on the toggler icon button.<br>
+On larger screens the pictures and text areas share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying text area either above or below the text.<br>
+On larger screens, the 
 ## Deployment
 I have deployed this project to GitHub. I have done this by creating a repository on the Github website and pushing the project to the repository using the projects terminal window.<br>
 Throughout the project I have also made use of the local git using the projects terminal and have added and committed changes to this as I progressed throughout the project.<br>
@@ -242,5 +232,8 @@ The microphones image I have is from:
 https://static.sonovente.com/img/front/cms/21e4d5f4b5eca6f6b79677365c70d11c.jpg <br>
 The common image for the intrductory paragraphs for the equalization page and the compressor/limiter page was found here: https://www.jakpost.travel/wimages/large/101-1013492_musical-background-white-treble-clef-moving-horizontal-music.png
 
+http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
+
+youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
 
 
