@@ -94,6 +94,7 @@ body {
     width: 300px;
     float:right;
     margin-top: 0;
+    margin-bottom: 15px;
 }
     
 .comptxt {
@@ -113,6 +114,7 @@ body {
     border-radius:50%;
     width: 300px;
     padding:10px;
+    margin-bottom: 15px;
 }
    
 .interfacetxt {
@@ -132,6 +134,7 @@ body {
     border-radius:50%;
     width: 300px;
     padding:10px;
+    margin-bottom: 15px;
 }
 
 .mictxt {
@@ -218,6 +221,7 @@ footer .fa-globe:hover {
     border-radius:50%;
     padding:10px;
     float:left;
+    margin-bottom: 15px;
 }
  
 .eqtxt {
@@ -237,6 +241,7 @@ footer .fa-globe:hover {
     border-radius:50%;
     width: 300px;
     padding:10px;
+    margin-bottom: 15px;
 }
 
 .onebandtxt {
@@ -247,7 +252,7 @@ footer .fa-globe:hover {
 }
  
 .sevenband {
-     height: 350px;
+    height: 350px;
     background-image: url("../images/7band.jpg");
     background-size: contain;
     background-repeat: no-repeat;
@@ -256,6 +261,7 @@ footer .fa-globe:hover {
     border-radius:50%;
     width: 300px;
     padding:10px;
+    margin-bottom: 15px;
 }
     
 .sevenbandtxt {
@@ -275,6 +281,7 @@ footer .fa-globe:hover {
     border:4px solid #fff;
     border-radius:50%;
     padding:10px;
+    margin-bottom: 15px;
 }
 
 .compresstxt {
@@ -303,6 +310,7 @@ iframe {
     border:4px solid #fff;
     border-radius:50%;
     padding:10px;
+    margin-bottom: 15px;
 }
 
 .limitertxt {
