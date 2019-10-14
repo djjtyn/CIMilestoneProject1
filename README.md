@@ -207,7 +207,7 @@ http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2
 
 youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
 
-favicon bug
+
 
 ### Validation
 
