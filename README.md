@@ -1,6 +1,6 @@
 # Digital Audio Workstations
 For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools to be used for enhancing their audio quality.<br> 
-A deployed verseion of this website can be found here: https://djjtyn.github.io/milestoneproject/
+A deployed version of this website can be found here: https://djjtyn.github.io/milestoneproject/
 
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br>
@@ -29,7 +29,7 @@ The navbar and the image directly below the navbar are both common features on a
 ### Home Page
 The home page on the site consists of an explanation of what a digital audio workstation is. Also included in this section are a few examples of the existing software available accompanied by pictures of the software logos. Each software icon logo is a link to that particular softwares website which gives information on the features available in that particular software.<br>
 Below this, I have listed the requirements neccessary to start producing high quality home audio. These requirement sections consist of computers, audio interfaces and microphones with pictures of each component beside their text areas.<br>
-Found within the computer section is a list of hyperlinks for both apple and windows computers which give details of the computer specifications required to run the software. I have included font awesome icons for both apple and windows symbols which accompany the text stating what each link is for. This is to help the user decide on which software would be best suited for them.<br>
+Found within the computer section is a list of hyperlinks for both apple and windows computers which give details of the computer specifications required to run the software. This is to help the user decide on which software would be best suited for them. I have included font awesome icons for both apple and windows symbols which accompany the links stating what each link is for. <br>
 Found within the audio interface section is a hyperlink to a website which gives a list of some of the best audio interfaces available in 2019. This is to help the user choose which interface to buy which would be best suited to them.<br>
 Found within the microphone section is a hyperlink to a website which gives a list of some of the best budget microphones available for home recording. This is to help the user choose which microphone to buy which would be best suited to them.
 
@@ -68,7 +68,7 @@ I have incorporated JavaScript in this project to allow the navigation headings 
 
 ![image](md-images/compressor-page.png)
 
-### Navbar Toggler
+### Navbar Toggler (TEST PASSED)
 ![image](md-images/navbartoggler.png)
 
 ### Navbar Toggler Active (TEST PASSED)
@@ -205,7 +205,7 @@ The CSS validation was done using the CSS validator tool found at "https://jigsa
 I had some issues with using the bootstrap grid system, in which the text would overlap the images or the images would overlap the text at some parts of the site when the screensize was made smaller. I deleted all the original bootstrap code I had coded and started again being more cautious which resolved this.<br>
 
 ### Images
-I changed a lot of images on the sites to images that were different from my wirestrap imaging ideas. This was due to thinking that the images which I chose for my deployed project to be more aesthetically pleasing than my original ideas for the images.
+I changed a lot of images on the site to images that were different from my wireframe imaging ideas. This was due to thinking that the images which I chose for my deployed project to be more aesthetically pleasing than my original ideas for the images.
 
 ### Layout
 I was originally going to keep all the sites text on the right hand side of the pages and all the sites pictures on the left hand side of the pages but I found that alternating these arrangements better suited the project.<br>
@@ -213,18 +213,18 @@ I was originally going to keep all the sites text on the right hand side of the 
 ### Responsiveness
 On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list accessible by clicking on the toggler icon button.<br>
 On larger screens the pictures and accompanying text areas share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying text area either above or below the pictures.<br>
-On larger screens, the software icons take up a square space, with two icons on top and two icons on the bottom of the space. As the screen gets smaller this layout changes to allow each software icon to have its own space with the 4 icons layed in a vertical line before returning to a square layout at 767px width, with the accompanying text below the square and as the screen gets smaller again, the vertical line layout is applied again at 626px width.
+On larger screens, the software icons take up a square space, with two icons on top and two icons on the bottom of the space. As the screen gets smaller this layout changes to allow each software icon to have its own space with the 4 icons in a vertical line before returning to a square layout at 767px width, with the accompanying text below the square and as the screen gets smaller again, the vertical line layout is applied again at 626px width.
 
 ## Deployment
 I have deployed this project to GitHub. I have done this by creating a repository on the Github website and pushing the project to the repository using the projects terminal window.<br>
-https://github.com/djjtyn/milestonepractise.git is the URL the temrinal pushes the project to.<br>
+https://github.com/djjtyn/milestonepractise.git is the URL the terminal pushes the project to.<br>
 Throughout the project I have also made use of the local git using the projects terminal and have added and committed changes regularly to this as I progressed throughout the project.<br>
 Throughout the project I have created different github repositiories for this project. This was due to my lack of knowledge of retrieving the github directory name if I closed the Github page but as I progressed I learned that the changes would be sent to the original github master by using the git push command without the directory name included.<br>
 
 ## Credits
 I used the website "http://tools.dynamicdrive.com/favicon/-favicon" to create a favicon for use in this project. The site contains a tool for generating favicons from files stored on a users computer.<br>
-I used some code shown on "https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE" to improve the responsiveness of my embedded youtube video found within my projects "compressor/limiter" page.
-I used the button code fround within CodeInstitutes WhiskeyDrop project to allow me to create a toggler button for my navigation bar headings when the screen is at a certain width. The source code for this can be found here:"https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/blob/master/04-BeyondBootstrap/03-cleaning_up_our_content/index.html" 
+I used some code shown on "https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE" to improve the responsiveness of my embedded youtube video found within my projects "compressor/limiter" page.<br>
+I used the button code found within CodeInstitutes WhiskeyDrop project to allow me to create a toggler button for my navigation bar headings when the screen is at a certain width. The source code for this can be found here:"https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/blob/master/04-BeyondBootstrap/03-cleaning_up_our_content/index.html" 
 
 ### Photos
 A lot of the photos used for this project have been screenshots taken using my computer.<br>
