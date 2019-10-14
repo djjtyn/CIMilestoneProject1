@@ -1,6 +1,6 @@
 # Digital Audio Workstations
 For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools to be used for enhancing their audio quality.<br> 
-A deployed verseion of this website can be found here: https://djjtyn.github.io/milestonepractise/
+A deployed verseion of this website can be found here: https://djjtyn.github.io/milestoneproject/
 
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br>
@@ -237,10 +237,8 @@ The Mac and Windows computer image I have is from: https://lh6.googleusercontent
 The audio interface image I have is from: http://guitarrecordingpro.com/wp-content/uploads/2019/06/Best-Audio-Interfaces-For-Under-200-1024x512.jpg <br>
 The microphones image I have is from:
 https://static.sonovente.com/img/front/cms/21e4d5f4b5eca6f6b79677365c70d11c.jpg <br>
-The common image for the intrductory paragraphs for the equalization page and the compressor/limiter page was found here: https://www.jakpost.travel/wimages/large/101-1013492_musical-background-white-treble-clef-moving-horizontal-music.png
+The common image for the intrductory paragraphs for the equalization page and the compressor/limiter page was found here: https://www.jakpost.travel/wimages/large/101-1013492_musical-background-white-treble-clef-moving-horizontal-music.png <br>
+The image I used for the favicon is from:https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
 
-http://tools.dynamicdrive.com/favicon/-favicon generator with image https://cdn2.vectorstock.com/i/1000x1000/34/96/black-icon-headphones-cartoon-vector-18703496.jpg
-
-youtube vid https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE
 
 
