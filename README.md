@@ -212,13 +212,20 @@ I was originally going to keep all the sites text on the right hand side of the 
 
 ### Responsiveness
 On larger screens the navigation bar headings appear in a line and on smaller screens (767px and below) these headings are condensed into a toggle button list accessible by clicking on the toggler icon button.<br>
-On larger screens the pictures and text areas share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying text area either above or below the text.<br>
-On larger screens, the 
+On larger screens the pictures and accompanying text areas share the screen and on smaller screens (767px and below) the layout changes so that the pictures take up the full size of the screen with the accompanying text area either above or below the pictures.<br>
+On larger screens, the software icons take up a square space, with two icons on top and two icons on the bottom of the space. As the screen gets smaller this layout changes to allow each software icon to have its own space with the 4 icons layed in a vertical line before returning to a square layout at 767px width, with the accompanying text below the square and as the screen gets smaller again, the vertical line layout is applied again at 626px width.
+
 ## Deployment
 I have deployed this project to GitHub. I have done this by creating a repository on the Github website and pushing the project to the repository using the projects terminal window.<br>
-Throughout the project I have also made use of the local git using the projects terminal and have added and committed changes to this as I progressed throughout the project.<br>
+https://github.com/djjtyn/milestonepractise.git is the URL the temrinal pushes the project to.<br>
+Throughout the project I have also made use of the local git using the projects terminal and have added and committed changes regularly to this as I progressed throughout the project.<br>
 Throughout the project I have created different github repositiories for this project. This was due to my lack of knowledge of retrieving the github directory name if I closed the Github page but as I progressed I learned that the changes would be sent to the original github master by using the git push command without the directory name included.<br>
+
 ## Credits
+I used the website "http://tools.dynamicdrive.com/favicon/-favicon" to create a favicon for use in this project. The site contains a tool for generating favicons from files stored on a users computer.<br>
+I used some code shown on "https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml?fbclid=IwAR3EqvLSx9nTD1wV288kxs9jNyee3PCTt_vHr3kvniGXR2a2BMYnkalblLE" to improve the responsiveness of my embedded youtube video found within my projects "compressor/limiter" page.
+I used the button code fround within CodeInstitutes WhiskeyDrop project to allow me to create a toggler button for my navigation bar headings when the screen is at a certain width. The source code for this can be found here:"https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/blob/master/04-BeyondBootstrap/03-cleaning_up_our_content/index.html" 
+
 ### Photos
 A lot of the photos used for this project have been screenshots taken using my computer.<br>
 For the common image below the navigation bar, I got this image from: https://cdn-images-1.medium.com/fit/t/800/240/1*C85p0nXx8jle1XoKfWCRYA.png <br>
@@ -226,7 +233,7 @@ For the Pro Tools software icon, I got this from:https://images.fmctraining.com/
 For the Ableton software icon, I got this from:https://i.redd.it/meg6nawssnb01.jpg <br>
 For the Audacity software icon, I got this from:https://crisponair.blog/2016/07/02/your-favourite-free-audio-editor-has-accessibility/<br>
 For the Audition software icon, I got this from: https://www.adobe.com/content/dam/acom/en/cc-wam/images/Au_446x272.jpg <br>
-The Mac and Windows computer image I have is from: https://s3.amazonaws.com/images.ecwid.com/images/10833132/459077174.jpg <br>
+The Mac and Windows computer image I have is from: https://lh6.googleusercontent.com/proxy/QNVsuHjV1Fq_wQN7j7c7ofo4Ep_YkFNgVELhlXh3AYYkhMkBIUCS4zjL__dP0F2ZhHQIrpNx-7FuIdAuLSP2GM6tdx2JbRBKSF_umi6r77HkxGYiq7wq7fwfOOWd-Ox5=w1200-h630-p-k-no-nu <br>
 The audio interface image I have is from: http://guitarrecordingpro.com/wp-content/uploads/2019/06/Best-Audio-Interfaces-For-Under-200-1024x512.jpg <br>
 The microphones image I have is from:
 https://static.sonovente.com/img/front/cms/21e4d5f4b5eca6f6b79677365c70d11c.jpg <br>
