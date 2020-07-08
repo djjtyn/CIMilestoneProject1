@@ -1,6 +1,6 @@
 # Digital Audio Workstations
 For my first milestone project, I chose to create a website containing information on digital audio workstations and different software available to allow a user to start recording high quality audio from their home. I have listed the requirements neccessary for a user to make use of this method of recording and the tools to be used for enhancing their audio quality.<br> 
-A deployed version of this website can be found here: https://djjtyn.github.io/milestoneproject/
+A deployed version of this website can be found here: https://djjtyn.github.io/CIMilestoneProject1/
 
 ## UX
 This website is aimed at people who are interested in learning about recording audio from their home and the process involved to enhance the audio quality of their recordings after they have recorded their audio.<br>
